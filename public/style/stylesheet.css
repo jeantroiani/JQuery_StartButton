@@ -1,0 +1,31 @@
+ul{
+width:90px;position:relative;
+  left:-39px;
+  top:-17px;
+}
+li{list-style:none;
+background-color:rgba(12,50,12,.18);
+  width:80px;
+  border-style:groove;
+  text-align:center;
+}
+.goRed{ 
+     background-color:#c74f71;
+ }
+.goBlue{ 
+     background-color:lightblue;
+ }  
+.goGreen{ 
+     background-color:#42b95b;
+ } 
+.start{list-style:none;
+background-color:lightgray;
+  width:85px;
+  border:1px solid black;
+  text-align:center;
+  margin:1px;
+  border-style:groove;
+}
+
+
+
